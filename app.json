@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "appvenda",
+    "slug": "appvenda",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/2rm.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./img/logoclube.png",
+
+      "resizeMode": "contain",
+      "backgroundColor": "#388e3c"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    }
+  }
+}
